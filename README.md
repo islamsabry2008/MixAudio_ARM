@@ -1,4 +1,4 @@
-MixAudio Plugin v9
+MixAudio Plugin v1.2
 What is this?
 MixAudio lets you play internet audio streams on your Enigma2 receiver while watching TV. The main use case? Watching a football match on a foreign channel while listening to Arabic commentary from an online radio stream. Pretty handy, right?
 
