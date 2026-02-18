@@ -125,9 +125,9 @@ if [ $? -eq 0 ]; then
     echo "- Plugin: /usr/lib/enigma2/python/Plugins/Extensions/MixAudio/"
     echo "- Config: /etc/enigma2/mixaudio.json"
     echo ""
-    echo "🔄 RESTARTING ENIGMA2 in 3s..."
-    sleep 3
-    killall -9 enigma2
+    #echo "🔄 RESTARTING ENIGMA2 in 3s..."
+    #sleep 3
+    #killall -9 enigma2
 else
     echo "❌ Installation FAILED!"
     echo "Check /var/log/opkg.log for details"
