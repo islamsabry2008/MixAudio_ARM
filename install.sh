@@ -2,7 +2,7 @@
 ##Command=wget https://github.com/Najar1991/MixAudio_ARM/raw/refs/heads/main/install.sh -O - | /bin/sh
 ##################################
 
-version="9.2"
+version="1.2"
 base_url="https://github.com/Najar1991/MixAudio_ARM/raw/refs/heads/main"
 
 ipkurl_arm="$base_url/MixAudio_arm.ipk"
